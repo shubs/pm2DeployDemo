@@ -1,6 +1,6 @@
 module.exports = {
   apps : [{
-    script: 'www/bin',
+    script: 'bin/www',
     watch: '.'
   }],
   deploy : {
